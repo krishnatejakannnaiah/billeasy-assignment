@@ -1,0 +1,19 @@
+.modal-content {
+    margin: 20px;
+}
+
+.flex-wrap {
+    display: flex;
+    justify-content: center;
+
+}
+
+.div-one {
+    margin-right: 20px;
+}
+
+.prd-img {
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}

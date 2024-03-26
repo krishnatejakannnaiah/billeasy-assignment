@@ -1,0 +1,14 @@
+.product-wrap {
+}
+
+
+.product-desc-section {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.product-img {
+    width: 250px;
+    height: 270px;
+    object-fit: cover;
+}
